@@ -7,7 +7,7 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL;
 
 export default function LoginPage() {
   const router = useRouter();
-  const [email, setEmail] = useState("a@a.com");
+  const [email, setEmail] = useState("merchant@merchant.com");
   const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);

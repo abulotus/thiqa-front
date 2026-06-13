@@ -1,0 +1,25 @@
+{
+  "app": {
+    "[project]/Desktop/tailadmin-dashboard/src/app/(admin)/(others-pages)/credit-accounts/page": [
+      "static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2"
+    ],
+    "[project]/Desktop/tailadmin-dashboard/src/app/(admin)/(others-pages)/merchants/page": [
+      "static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2"
+    ],
+    "[project]/Desktop/tailadmin-dashboard/src/app/(admin)/(others-pages)/payments/page": [
+      "static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2"
+    ],
+    "[project]/Desktop/tailadmin-dashboard/src/app/(admin)/page": [
+      "static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2"
+    ],
+    "[project]/Desktop/tailadmin-dashboard/src/app/(auth)/login/page": [
+      "static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2"
+    ],
+    "[project]/Desktop/tailadmin-dashboard/src/app/_not-found/page": [
+      "static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

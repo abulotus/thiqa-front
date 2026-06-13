@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_app": [
+      "static/chunks/a9a92_next_dist_compiled_632df09e._.js",
+      "static/chunks/a9a92_next_dist_shared_lib_0a05d4be._.js",
+      "static/chunks/a9a92_next_dist_client_bd2950b4._.js",
+      "static/chunks/a9a92_next_dist_8bd5e665._.js",
+      "static/chunks/a9a92_next_app_634889ba.js",
+      "static/chunks/[next]_entry_page-loader_ts_d10e10be._.js",
+      "static/chunks/a9a92_react-dom_976167ea._.js",
+      "static/chunks/a9a92_80a70047._.js",
+      "static/chunks/[root-of-the-server]__4754c8bf._.js",
+      "static/chunks/Desktop_tailadmin-dashboard_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_tailadmin-dashboard_pages__app_967c9685._.js"
+    ]
+  },
+  "ampFirstPages": []
+}

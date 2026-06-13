@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 25, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
-    {"offset": {"line": 29, "column": 0}, "map": {"version":3,"sources":["file:///Users/wesam/Desktop/tailadmin-dashboard/src/app/%28admin%29/%28others-pages%29/merchants/page.tsx"],"sourcesContent":["import MerchantsClient from \"@/components/merchants/MerchantsClient\";\nimport { Metadata } from \"next\";\nimport React from \"react\";\n\nexport const metadata: Metadata = {\n  title: \"Merchants | ThiqaScore\",\n  description: \"Manage ThiqaScore merchants\",\n};\n\nexport default function MerchantsPage() {\n  return <MerchantsClient />;\n}"],"names":[],"mappings":";;;;;;;AAAA;;;AAIO,MAAM,WAAqB;IAChC,OAAO;IACP,aAAa;AACf;AAEe,SAAS;IACtB,qBAAO,mRAAC,kMAAe;;;;;AACzB"}}]
-}
